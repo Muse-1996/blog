@@ -1,7 +1,14 @@
-# blog
+---
+description: 人生遇到瓶颈时，上进心是最大的煎熬。
+---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2124c-4190-4631-a753-e7bf685391c0/deploy-status)](https://app.netlify.com/sites/g1eny0ung-site-preview/deploys)
+# 前言
 
-<https://g1eny0ung.site>
+## It's not what we do once in a while that shapes our lives. It's what we do consistently.
 
-Personal blog.
+我们过着的生活，是由那些持之以恒的事情造就的；而不是一时兴起、偶尔为之的新鲜刺激的事。
+
+人活在世上有两大义务，一是好好做人，无愧于人生一世。这一条我还差的很远。另外一条是不能惯着别人的臭毛病，这一条我差的更远。
+
+我不合群，很少解释，不发声回应，于是人们对我的所作所为做出评价。其实那并不构成我的万分之一，但从那些评价中我看到了他们自己。
+
